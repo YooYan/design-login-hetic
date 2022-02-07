@@ -1,8 +1,9 @@
 body {
-    background-color: #2C73C8;
+    background: linear-gradient(to bottom left, #ffffff -6%, #0066cc 100%);
 }
 
 .container {
+    height: 1000px;
     width: 100%;
     margin: 0 auto;
 }
@@ -13,6 +14,8 @@ body {
     padding: 20px 53px;
     width: 530px;
     margin: auto;
+    margin-top: 110px;
+
 }
 
 .input-confirm-mdp {
