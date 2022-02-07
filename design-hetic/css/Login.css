@@ -8,6 +8,16 @@ body {
     margin: 0 auto;
 }
 
+.box-connexion{
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 39px;
+    padding: 20px 53px;
+    width: 530px;
+    margin: auto;
+    margin-top: 160px;
+
+}
+
 .box-inscription {
     background-color: rgba(255, 255, 255, 0.6);
     border-radius: 39px;
